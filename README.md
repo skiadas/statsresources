@@ -7,8 +7,8 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [CAUSEWeb](https://www.causeweb.org) organizes the eCOTS and USCOTS conferences and offers various resources
 - [ASA](http://www.amstat.org/) hosts many useful mailing and helps organize many conferences like the [Joint Statistical Meetings]()
 - [SIGMAA Stat Ed](http://sigmaa.maa.org/stat-ed/)
-- [Amstat community on statistical education](http://community.amstat.org/statisticaleducationsection/home)
-- [Stats 101 community](http://community.amstat.org/stats101/home)
+- [ASA community for statistical education](http://community.amstat.org/statisticaleducationsection/home)
+- [ASA community for Stats 101](http://community.amstat.org/stats101/home)
 
  
 ## Journals (that are more applied)
