@@ -22,6 +22,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [GAISE](http://www.amstat.org/asa/files/pdfs/GAISE/GaiseCollege_Full.pdf), the Guidelines for Assessment and Instruction in Statistics Education
 - [CAUSEWeb resources](https://www.causeweb.org/cause/professional-development)
 - [Curriculum Guidelines](http://www.amstat.org/asa/files/pdfs/EDU-guidelines2014-11-15.pdf)
+- [2015 CUPM, Intro Statistics Recommendation](https://www.maa.org/sites/default/files/AppliedStatDataAnalysis.pdf)
 - [ASA's statement on p-values](http://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2016.1154108)
 
 ## Online Books and Book resources
@@ -53,4 +54,4 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [K-12 Statistics Education resources](http://www.amstat.org/ASA/Education/K-12-Statistics-Education-Resources.aspx)
 - [ASA resources for undergraduate educators](http://www.amstat.org/asa/education/undergraduate-educators.aspx)
 
-Many thanks to Stacey Hancock for her contributions.
+Many thanks to Stacey Hancock and Patti Frazer Lock for their contributions.
