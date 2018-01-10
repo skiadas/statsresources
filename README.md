@@ -6,8 +6,17 @@ This site is meant as a repository of resources for Introductory Statistics cour
 
 - [CAUSEWeb](https://www.causeweb.org) organizes the eCOTS and USCOTS conferences and offers various resources
 - [ASA](http://www.amstat.org/) hosts many useful mailing and helps organize many conferences like the [Joint Statistical Meetings]()
+- [SIGMAA Stat Ed](http://sigmaa.maa.org/stat-ed/)
+- [Amstat community on statistical education](http://community.amstat.org/statisticaleducationsection/home)
+- [Stats 101 community](http://community.amstat.org/stats101/home)
 
+ 
+## Journals (that are more applied)
 
+- [Journal of Statistics Education](https://ww2.amstat.org/publications/jse/)
+- [Significance](https://www.significancemagazine.com/)
+- [Chance](https://chance.amstat.org/)
+ 
 ## Reports, Recommendations
 
 - [GAISE](http://www.amstat.org/asa/files/pdfs/GAISE/GaiseCollege_Full.pdf), the Guidelines for Assessment and Instruction in Statistics Education
@@ -30,7 +39,18 @@ This site is meant as a repository of resources for Introductory Statistics cour
 
 - [GapMinder tools](https://www.gapminder.org/tools/) allow an awesome visualization of various world statistics over time.
 - [StatKey](http://www.lock5stat.com/StatKey/index.html) has many 
-- Awesome list of [visualizations hosted by Kari Lock Morgan](http://www.personal.psu.edu/klm47/visualization.htm)
+- [Visualizations hosted by Kari Lock Morgan](http://www.personal.psu.edu/klm47/visualization.htm)
+- [Art of Statistics](http://www.artofstat.com/webapps.html)
+- [Our World in Data](https://ourworldindata.org/)
+- [Five Thirty Eight](http://fivethirtyeight.com/)
 
-## Other links
 
+## Other resources
+
+- [World of Statistics](http://www.worldofstatistics.org/)
+- [This is Statistics](http://thisisstatistics.org/)
+- [The world of statistics](http://www.amstat.org/asa/education/stew/home.aspx)
+- [K-12 Statistics Education resources](http://www.amstat.org/ASA/Education/K-12-Statistics-Education-Resources.aspx)
+- [ASA resources for undergraduate educators](http://www.amstat.org/asa/education/undergraduate-educators.aspx)
+
+Many thanks to Stacey Hancock for her contributions.
