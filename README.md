@@ -55,6 +55,13 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Our World in Data](https://ourworldindata.org/)
 - [Five Thirty Eight](http://fivethirtyeight.com/)
 
+## Statistics Software
+
+- [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/), [Project MOSAIC](http://mosaic-web.org/)
+- [JMP](https://www.jmp.com/en_us/home.html)
+- [SPSS](https://www.ibm.com/analytics/data-science/predictive-analytics/academic-statistical-software)
+- [Minitab](http://www.minitab.com/)
+- [Tableau](http://www.tableau.com/)
 
 ## Other resources
 
