@@ -44,6 +44,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Datasets from the Lock5 book](http://www.lock5stat.com/datapage.html)
 - [BRFSS](https://www.cdc.gov/brfss/index.html) is a large annual survey on health-related factors.
 - [Data and Story library](http://www.stat.cmu.edu/DASL/)
+- [Robin Lock's links to datasets](http://myslu.stlawu.edu/~rlock/data2016/) and lots of other goodies
 
 ## Online and Interactive apps
 
@@ -63,4 +64,4 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [K-12 Statistics Education resources](http://www.amstat.org/ASA/Education/K-12-Statistics-Education-Resources.aspx)
 - [ASA resources for undergraduate educators](http://www.amstat.org/asa/education/undergraduate-educators.aspx)
 
-Many thanks to Stacey Hancock and Patti Frazer Lock, and all the participants and attendees of the JMM 2018 panel on mathematicians teaching statistics, for their contributions.
+Many thanks to Stacey Hancock, Patti Frazer Lock, Robin Lock, and all the participants and attendees of the JMM 2018 panel on mathematicians teaching statistics, for their contributions.
