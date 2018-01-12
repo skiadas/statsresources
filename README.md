@@ -11,14 +11,14 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [ASA community for statistical education](http://community.amstat.org/statisticaleducationsection/home)
 - [ASA community for Stats 101](http://community.amstat.org/stats101/home)
 
- 
+
 ## Journals (that are more applied)
 
 - [Journal of Statistics Education](https://ww2.amstat.org/publications/jse/)
 - [Significance](https://www.significancemagazine.com/)
 - [Chance](https://chance.amstat.org/)
 - [Teaching Statistics](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9639)
- 
+
 ## Reports, Recommendations
 
 - [GAISE](http://www.amstat.org/asa/files/pdfs/GAISE/GaiseCollege_Full.pdf), the Guidelines for Assessment and Instruction in Statistics Education
@@ -27,10 +27,16 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [2015 CUPM, Intro Statistics Recommendation](https://www.maa.org/sites/default/files/AppliedStatDataAnalysis.pdf)
 - [ASA's statement on p-values](http://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2016.1154108)
 
-## Online Books and Book resources
+## Useful books
+
+- [Innovations in teaching statistics](https://www.maa.org/press/maa-reviews/innovations-in-teaching-statistics)
+- [Teaching Statistics: a bag of tricks](https://www.maa.org/press/maa-reviews/teaching-statistics-a-bag-of-tricks-0)
+
+## Online Textbooks and Book resources
 
 - [OpenIntro Statistics](https://www.openintro.org/stat/)
 - [Lock5](http://www.lock5stat.com/)
+- [Introduction to Statistical Investigations](http://math.hope.edu/isi/)
 - [Stat Labs](https://www.stat.berkeley.edu/~statlabs/)
 
 ## Links to Datasets
@@ -42,7 +48,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 ## Online and Interactive apps
 
 - [GapMinder tools](https://www.gapminder.org/tools/) allow an awesome visualization of various world statistics over time.
-- [StatKey](http://www.lock5stat.com/StatKey/index.html) has many 
+- [StatKey](http://www.lock5stat.com/StatKey/index.html) has many
 - [Visualizations hosted by Kari Lock Morgan](http://www.personal.psu.edu/klm47/visualization.htm)
 - [Art of Statistics](http://www.artofstat.com/webapps.html)
 - [Our World in Data](https://ourworldindata.org/)
@@ -57,4 +63,4 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [K-12 Statistics Education resources](http://www.amstat.org/ASA/Education/K-12-Statistics-Education-Resources.aspx)
 - [ASA resources for undergraduate educators](http://www.amstat.org/asa/education/undergraduate-educators.aspx)
 
-Many thanks to Stacey Hancock and Patti Frazer Lock for their contributions.
+Many thanks to Stacey Hancock and Patti Frazer Lock, and all the participants and attendees of the JMM 2018 panel on mathematicians teaching statistics, for their contributions.
