@@ -5,8 +5,9 @@ This site is meant as a repository of resources for Introductory Statistics cour
 ## Statistics Communities
 
 - [CAUSEWeb](https://www.causeweb.org) organizes the eCOTS and USCOTS conferences and offers various resources
-- [ASA](http://www.amstat.org/) hosts many useful mailing and helps organize many conferences like the [Joint Statistical Meetings]()
+- [ASA](http://www.amstat.org/) hosts many useful mailing and helps organize many conferences like the [Joint Statistical Meetings](http://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx)
 - [SIGMAA Stat Ed](http://sigmaa.maa.org/stat-ed/)
+- [Isolated Statisticians](http://ww2.amstat.org/committees/isostat/isostat.html)
 - [ASA community for statistical education](http://community.amstat.org/statisticaleducationsection/home)
 - [ASA community for Stats 101](http://community.amstat.org/stats101/home)
 
@@ -16,6 +17,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Journal of Statistics Education](https://ww2.amstat.org/publications/jse/)
 - [Significance](https://www.significancemagazine.com/)
 - [Chance](https://chance.amstat.org/)
+- [Teaching Statistics](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9639)
  
 ## Reports, Recommendations
 
@@ -35,6 +37,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 
 - [Datasets from the Lock5 book](http://www.lock5stat.com/datapage.html)
 - [BRFSS](https://www.cdc.gov/brfss/index.html) is a large annual survey on health-related factors.
+- [Data and Story library](http://www.stat.cmu.edu/DASL/)
 
 ## Online and Interactive apps
 
