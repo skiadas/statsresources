@@ -31,6 +31,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 
 - [Innovations in teaching statistics](https://www.maa.org/press/maa-reviews/innovations-in-teaching-statistics)
 - [Teaching Statistics: a bag of tricks](https://www.maa.org/press/maa-reviews/teaching-statistics-a-bag-of-tricks-0)
+- [Teaching Statistics: Resources for Undergraduate Instructors](https://www.maa.org/press/maa-reviews/teaching-statistics-resources-for-undergraduate-instructors)
 
 ## Online Textbooks and Book resources
 
@@ -49,7 +50,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 ## Online and Interactive apps
 
 - [GapMinder tools](https://www.gapminder.org/tools/) allow an awesome visualization of various world statistics over time.
-- [StatKey](http://www.lock5stat.com/StatKey/index.html) has many
+- [StatKey](http://www.lock5stat.com/StatKey/index.html)
 - [Visualizations hosted by Kari Lock Morgan](http://www.personal.psu.edu/klm47/visualization.htm)
 - [Art of Statistics](http://www.artofstat.com/webapps.html)
 - [Our World in Data](https://ourworldindata.org/)
