@@ -27,7 +27,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Curriculum Guidelines](http://www.amstat.org/asa/files/pdfs/EDU-guidelines2014-11-15.pdf)
 - [2015 CUPM, Intro Statistics Recommendation](https://www.maa.org/sites/default/files/AppliedStatDataAnalysis.pdf)
 - [ASA's statement on p-values](http://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2016.1154108)
-- [Statistical Education of Teachers Report](www.amstat.org/asa/files/pdfs/EDU-SET.pdf)
+- [Statistical Education of Teachers Report](http://www.amstat.org/asa/files/pdfs/EDU-SET.pdf)
 - [A Joint ASA/MAA Statement on Qualifications for Teaching an Introductory Statistics Course](https://www.maa.org/programs/faculty-and-departments/curriculum-department-guidelines-recommendations/joint-statement-teaching-intro-stats)
 
 
@@ -69,7 +69,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 ## Statistics Software
 
 - [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/), [Project MOSAIC](http://mosaic-web.org/)
-- [JMP](https://www.jmp.com/en_us/home.html), and [SAS](www.sas.com)
+- [JMP](https://www.jmp.com/en_us/home.html), and [SAS](http://www.sas.com)
 - [SPSS](https://www.ibm.com/analytics/data-science/predictive-analytics/academic-statistical-software)
 - [Minitab](http://www.minitab.com/)
 - [Tableau](http://www.tableau.com/)
