@@ -10,7 +10,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Isolated Statisticians](http://ww2.amstat.org/committees/isostat/isostat.html)
 - [ASA community for statistical education](http://community.amstat.org/statisticaleducationsection/home)
 - [ASA community for Stats 101](http://community.amstat.org/stats101/home)
-
+- [AP Statistics](https://apcommunity.collegeboard.org/web/apstatistics)
 
 ## Journals (that are more applied)
 
@@ -18,6 +18,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Significance](https://www.significancemagazine.com/)
 - [Chance](https://chance.amstat.org/)
 - [Teaching Statistics](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9639)
+- [StEW (Statistics Education Web)](http://www.amstat.org/ASA/Education/STEW/home.aspx)
 
 ## Reports, Recommendations
 
@@ -26,6 +27,10 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Curriculum Guidelines](http://www.amstat.org/asa/files/pdfs/EDU-guidelines2014-11-15.pdf)
 - [2015 CUPM, Intro Statistics Recommendation](https://www.maa.org/sites/default/files/AppliedStatDataAnalysis.pdf)
 - [ASA's statement on p-values](http://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2016.1154108)
+- [Statistical Education of Teachers Report](www.amstat.org/asa/files/pdfs/EDU-SET.pdf)
+- [A Joint ASA/MAA Statement on Qualifications for Teaching an Introductory Statistics Course](https://www.maa.org/programs/faculty-and-departments/curriculum-department-guidelines-recommendations/joint-statement-teaching-intro-stats)
+
+
 
 ## Useful books
 
@@ -64,10 +69,13 @@ This site is meant as a repository of resources for Introductory Statistics cour
 ## Statistics Software
 
 - [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/), [Project MOSAIC](http://mosaic-web.org/)
-- [JMP](https://www.jmp.com/en_us/home.html)
+- [JMP](https://www.jmp.com/en_us/home.html), and [SAS](www.sas.com)
 - [SPSS](https://www.ibm.com/analytics/data-science/predictive-analytics/academic-statistical-software)
 - [Minitab](http://www.minitab.com/)
 - [Tableau](http://www.tableau.com/)
+
+
+Other Resources - tinyurl.com/StatEdResources and the AMATYC page (http://www.amatyc.org/?page=StatsResources)
 
 ## Other resources
 
@@ -76,5 +84,7 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [The world of statistics](http://www.amstat.org/asa/education/stew/home.aspx)
 - [K-12 Statistics Education resources](http://www.amstat.org/ASA/Education/K-12-Statistics-Education-Resources.aspx)
 - [ASA resources for undergraduate educators](http://www.amstat.org/asa/education/undergraduate-educators.aspx)
+- [Resources for Teachers of Statistics from Villanova University Center for Statistics Education](http://www1.villanova.edu/villanova/artsci/mathematics/cse/TeacherResources.html)
+- [AMATYC Statistics resources page](http://www.amatyc.org/?page=StatsResources)]
 
-Many thanks to all the contributors: Stacey Hancock, Patti Frazer Lock, Robin Lock, Phil Yates, all the participants and attendees of the JMM 2018 panel on mathematicians teaching statistics.
+Many thanks to all the contributors: Stacey Hancock, Patti Frazer Lock, Robin Lock, Phil Yates, Michael Posner, all the participants and attendees of the JMM 2018 panel on mathematicians teaching statistics.
