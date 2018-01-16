@@ -74,9 +74,6 @@ This site is meant as a repository of resources for Introductory Statistics cour
 - [Minitab](http://www.minitab.com/)
 - [Tableau](http://www.tableau.com/)
 
-
-Other Resources - tinyurl.com/StatEdResources and the AMATYC page (http://www.amatyc.org/?page=StatsResources)
-
 ## Other resources
 
 - [World of Statistics](http://www.worldofstatistics.org/)
@@ -85,6 +82,6 @@ Other Resources - tinyurl.com/StatEdResources and the AMATYC page (http://www.am
 - [K-12 Statistics Education resources](http://www.amstat.org/ASA/Education/K-12-Statistics-Education-Resources.aspx)
 - [ASA resources for undergraduate educators](http://www.amstat.org/asa/education/undergraduate-educators.aspx)
 - [Resources for Teachers of Statistics from Villanova University Center for Statistics Education](http://www1.villanova.edu/villanova/artsci/mathematics/cse/TeacherResources.html)
-- [AMATYC Statistics resources page](http://www.amatyc.org/?page=StatsResources)]
+- [AMATYC Statistics resources page](http://www.amatyc.org/?page=StatsResources)
 
 Many thanks to all the contributors: Stacey Hancock, Patti Frazer Lock, Robin Lock, Phil Yates, Michael Posner, all the participants and attendees of the JMM 2018 panel on mathematicians teaching statistics.
